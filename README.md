@@ -1,5 +1,9 @@
 # tiny11builder
 
+* Custom version of Tiny11 to include Xbox App
+
+# Original ReadMe below:
+
 Scripts to build a trimmed-down Windows 11 image.
 
 This is a script to automate the build of a streamlined Windows 11 image, similar to tiny11.
