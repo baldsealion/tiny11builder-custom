@@ -1,6 +1,7 @@
 # tiny11builder
 
 * Custom version of Tiny11 to include Xbox App
+* Replaced oscdimg.exe with proper version from Assessment and Deployment Kit
 
 # Original ReadMe below:
 
