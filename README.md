@@ -1,6 +1,7 @@
-# tiny11builder
+# Custom Changes
 
-* Custom version of Tiny11 to include Xbox App & Gaming Overlay
+* Added Edge back in
+* Added Xbox App & Gaming Overlay back in
 * Replaced oscdimg.exe with proper version from Assessment and Deployment Kit
 
 # Original ReadMe below:
